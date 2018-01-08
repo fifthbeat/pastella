@@ -13,6 +13,7 @@ add-ons list
 ## Docker
 
 ## ExpoXDE
+`brew cask install expo-xde`
 
 ## Xcode
 cli xcode --install
@@ -29,4 +30,4 @@ trash
 z 
 git 
 cask
-
+git-go
